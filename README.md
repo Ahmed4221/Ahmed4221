@@ -12,7 +12,7 @@ I am a Machine Learning Engineer and Data Enthusiast with a knack for problem so
 
 I am proefficient in technologies listed below in the *toolbox* secion. I am also a certified AWS cloud practitioner and a machine learning specialist.
 
-Currently I am working as Machine Learning Lead at one of the world's first Web3.0 AI company and his efforts landed his company to be sponsored by Binance.
+Currently I am working as Machine Learning Lead at one of the world's first Web3.0 AI company and my efforts landed my company to be sponsored by Binance.
 
 ---
 
