@@ -10,9 +10,9 @@
 
 I am a Machine Learning Engineer and Data Enthusiast with a knack for problem solving. What distinguishes me from the rest of the crowd is that I do not believe in the fit&predict approach, instead I try to understand the data and the use-case.
 
-I am proefficient in technologies listed below in the *toolbox* secion. I am also a certified AWS cloud practitioner and a machine learning specialist.
+I am proefficient in technologies listed below in the *toolbox* secion. I am also a certified AWS cloud practitioner and an AWS machine learning specialist.
 
-Currently I am working as Machine Learning Lead at one of the world's first Web3.0 AI company and my efforts landed my company to be sponsored by Binance.
+Currently I am working as Machine Learning Lead at one of the world's first Web3.0 AI company and my efforts landed my company to be sponsored by Binance. In past I have worked in domains of computer vision, timeseries analysis and tabular data. All in all if you're someone who loves data and finding trends, let's connect ASAP.
 
 ---
 
