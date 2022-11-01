@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://github.com/Ahmed4221/Ahmed4221/blob/main/intro.gif)
+
 <!--
 **Ahmed4221/Ahmed4221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
